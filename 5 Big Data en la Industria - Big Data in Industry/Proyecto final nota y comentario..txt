@@ -1,0 +1,2 @@
+Sandra Picó Oristrell: "Overall good job! The architecture diagrams would be better with drawio. Different environments has not been taken into account (DEV, STG, PROD), neither the CI/CD. (Note: Submitted late)"
+Qualificació: 7,50 / 10,00
