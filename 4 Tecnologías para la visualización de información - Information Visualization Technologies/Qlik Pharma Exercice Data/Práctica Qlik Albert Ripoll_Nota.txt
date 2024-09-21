@@ -1,0 +1,9 @@
+7,00/10,00
+
+Falta:
+
+- Unificacion del campo fecha (eventos y calls)
+
+- Origen de Calls
+
+- El mapping de Account no es correcto
