@@ -1,0 +1,105 @@
+Gender	Age	Faculty	Brand	Colour	Provider	PlanType	Bill	PrimaryUse	No.Phones
+Female	38	Arts	Nokia	Blue	Optus	Plan	120	Calls	3
+Male	17	Built Env	Nokia	Black	Telstra	Prepaid	50	Both	1
+Female	18	Built Env	Nokia	Blue	Telstra	Plan	40	SMS	1
+Male	18	Built Env	Nokia	Grey	Optus	Prepaid	25	Both	1
+Male	19	Built Env	Nokia	Blue	Vodafone	Prepaid	7	Both	1
+Male	19	Built Env	Nokia	Silver	Vodafone	Prepaid	50	Both	1
+Male	21	Built Env	Nokia	Blue	Optus	Prepaid	10	SMS	1
+Male	24	Built Env	Nokia	Black	Optus	Prepaid	30	Both	2
+Male	24	Built Env	Nokia	Blue	Optus	Prepaid	30	SMS	3
+Male	17	Built Env	Nokia	White	Optus	Prepaid	10	SMS	1
+Male	23	Built Env	Nokia	Gold	Optus	Prepaid	30	Calls	1
+Male	30	Built Env	Nokia	Blue	Virgin	Plan	150	SMS	5
+Male	33	Built Env	Nokia	Silver	Vodafone	Prepaid	15	Calls	1
+Male	34	Built Env	Nokia	Silver	Virgin	Prepaid	30	SMS	6
+Male	17	Built Env	Nokia	Silver	Optus	Plan	30	SMS	1
+Male	20	Built Env	Nokia	Black	Telstra	Prepaid	30	Both	4
+Male	21	Built Env	Nokia	Black	Optus	Prepaid	60	SMS	2
+Male	24	Built Env	Nokia	Blue	Optus	Plan	50	Both	6
+Female	29	Built Env	Nokia	Grey	Optus	Plan	55	Calls	6
+Male	35	Built Env	Nokia	Black	Telstra	Prepaid	30	Both	10
+Male	25	Built Env	Nokia	Blue	Optus	Plan	35	Both	3
+Female	18	Business	Nokia	Blue	Optus	Prepaid	20	SMS	4
+Male	18	Business	Nokia	Red	Optus	Plan	60	SMS	1
+Female	19	Business	Nokia	Blue	Optus	Prepaid	10	SMS	1
+Female	19	Business	Nokia	Silver	Optus	Plan	95	Calls	1
+Male	20	Business	Nokia	Silver	Optus	Prepaid	15	SMS	1
+Female	21	Business	Nokia	Silver	Vodafone	Plan	35	Both	1
+Female	21	Business	Nokia	Pink	Optus	Plan	60	Both	1
+Female	21	Business	Nokia	Brown	Optus	Prepaid	15	SMS	5
+Male	21	Business	Nokia	Purple	Optus	Plan	90	Both	1
+Female	23	Business	Nokia	Grey	Optus	Prepaid	60	SMS	1
+Male	23	Business	Nokia	Red	Optus	Prepaid	120	Both	1
+Female	27	Business	Nokia	Red	Vodafone	Plan	40	SMS	2
+Male	28	Business	Nokia	Red	Optus	Prepaid	33	Both	1
+Male	17	Business	Nokia	Blue	Telstra	Prepaid	100	Both	1
+Female	18	Business	Nokia	Silver	Telstra	Prepaid	70	Both	2
+Male	18	Business	Nokia	White	Vodafone	Plan	20	SMS	1
+Male	18	Business	Nokia	Blue	Vodafone	Plan	40	Both	2
+Male	19	Business	Nokia	White	Telstra	Plan	90	Both	2
+Male	19	Business	Nokia	Black	Optus	Plan	40	Both	3
+Male	20	Business	Nokia	Purple	Optus	Prepaid	30	Both	1
+Male	20	Business	Nokia	Blue	Optus	Prepaid	15	SMS	2
+Male	20	Business	Nokia	Black	Telstra	Plan	250	Both	4
+Female	21	Business	Nokia	Silver	Telstra	Prepaid	20	Both	3
+Female	22	Business	Nokia	Purple	Telstra	Plan	35	SMS	3
+Male	22	Business	Nokia	Grey	Optus	Plan	25	Both	2
+Male	24	Business	Nokia	Black	Optus	Plan	33	Both	4
+Female	18	Business	Nokia	Blue	Optus	Prepaid	30	SMS	1
+Male	18	Business	Nokia	Grey	Optus	Plan	55	Calls	6
+Female	19	Business	Nokia	White	Optus	Prepaid	30	Both	2
+Female	19	Business	Nokia	Purple	Telstra	Prepaid	50	SMS	2
+Female	19	Business	Nokia	Silver	Optus	Prepaid	30	Both	3
+Female	19	Business	Nokia	Black	Vodafone	Prepaid	40	SMS	3
+Female	22	Business	Nokia	Silver	Optus	Prepaid	30	SMS	3
+Male	24	Business	Nokia	Silver	Optus	Plan	90	Calls	4
+Male	27	Business	Nokia	Silver	Telstra	Prepaid	60	Calls	3
+Male	32	Business	Nokia	Black	Optus	Plan	40	Calls	6
+Male	33	Business	Nokia	Grey	Optus	Prepaid	60	Both	12
+Female	27	Business	Nokia	Blue	Vodafone	Prepaid	100	SMS	6
+Male	35	Business	Nokia	Black	Telstra	Plan	70	Calls	1
+Female	43	Creative Ind	Nokia	Green	Optus	Prepaid	30	SMS	1
+Female	18	Creative Ind	Nokia	Blue	Telstra	Plan	40	Both	2
+Male	19	Creative Ind	Nokia	Blue	Virgin	Prepaid	20	SMS	1
+Female	21	Creative Ind	Nokia	Red	Optus	Plan	50	Calls	4
+Male	24	Creative Ind	Nokia	Gold	Optus	Prepaid	20	Calls	2
+Female	19	Education	Nokia	Blue	Telstra	Plan	20	Calls	1
+Male	17	Education	Nokia	Blue	Telstra	Plan	38	Both	5
+Female	21	Education	Nokia	Silver	Optus	Plan	100	Calls	4
+Female	19	Education	Nokia	Multi	Optus	Plan	20	SMS	3
+Female	18	Health	Nokia	Grey	Optus	Plan	50	SMS	1
+Female	24	Health	Nokia	Pink	Vodafone	Prepaid	30	SMS	2
+Female	38	Health	Nokia	Blue	Telstra	Plan	35	Both	3
+Female	18	Humanities	Nokia	Silver	Optus	Plan	80	Both	4
+Male	22	IT	Nokia	Blue	Optus	Prepaid	30	SMS	1
+Male	26	IT	Nokia	White	Optus	Prepaid	35	Both	2
+Male	18	IT	Nokia	Red	Optus	Prepaid	15	SMS	2
+Female	18	IT	Nokia	Blue	Optus	Plan	30	SMS	2
+Female	23	IT	Nokia	Black	Vodafone	Prepaid	40	SMS	6
+Male	27	IT	Nokia	Silver	Optus	Prepaid	10	SMS	2
+Male	18	Law	Nokia	Blue	Telstra	Prepaid	25	Calls	1
+Female	18	Law	Nokia	Blue	Optus	Plan	40	SMS	2
+Female	20	Law	Nokia	Blue	Optus	Plan	40	Both	3
+Female	17	Law	Nokia	Blue	Optus	Plan	70	Both	4
+Female	18	Law	Nokia	White	Telstra	Plan	40	SMS	2
+Male	19	Law	Nokia	Silver	Optus	Plan	70	Both	4
+Male	20	Law	Nokia	Black	Telstra	Plan	140	Calls	4
+Female	49	Law	Nokia	Green	Optus	Plan	15	Calls	3
+Female	17	Science	Nokia	Blue	Optus	Prepaid	30	SMS	1
+Male	18	Science	Nokia	Green	Optus	Prepaid	20	SMS	1
+Female	19	Science	Nokia	Grey	Telstra	Prepaid	30	SMS	1
+Female	19	Science	Nokia	Green	Optus	Plan	120	Both	1
+Female	21	Science	Nokia	Blue	Optus	Prepaid	60	Calls	1
+Female	17	Science	Nokia	White	Optus	Prepaid	60	SMS	3
+Male	17	Science	Nokia	Blue	Telstra	Plan	15	SMS	1
+Female	18	Science	Nokia	Pink	Telstra	Prepaid	25	SMS	2
+Female	18	Science	Nokia	Pink	Telstra	Plan	30	SMS	2
+Female	19	Science	Nokia	Purple	Optus	Prepaid	0	Calls	1
+Female	19	Science	Nokia	Red	Optus	Prepaid	20	SMS	7
+Male	19	Science	Nokia	Blue	Telstra	Prepaid	15	Both	1
+Male	20	Science	Nokia	Silver	Optus	Prepaid	65	Both	1
+Male	17	Science	Nokia	Blue	Vodafone	Prepaid	45	SMS	2
+Female	18	Science	Nokia	Red	Optus	Prepaid	30	SMS	2
+Male	18	Science	Nokia	Silver	Optus	Plan	40	Both	2
+Male	23	Science	Nokia	Red	Optus	Prepaid	30	SMS	2
