@@ -1,0 +1,14 @@
+• PDF redactat de la pràctica → Entrega Albert Ripoll.pdf
+• Codi Python. El més destacat i clau està citat al llarg del treball PDF a l'annex. El codi executat i programat sencer està en els següents documents:
+	○ L'estava redactant en el següent document → PracticavFinalv3.ipynb
+	  Fins que es va produir un error al codi HTTP que m'impedeix obrir-lo o descarregar-lo. El tinc al Drive a: https://colab.research.google.com/drive/1KFtpQtfVpHx8PblmceEpHVTrFZ2_OaNK?usp=drive_link
+	○ A partir de l'error he continuat a partir de la versió anterior que tenia → PracticavFinalv2.ipynb
+	○ Alhora, l'anàlisi d'espectogrames per CNN, davant la necessitat d'espai de realitzar-lo en un altre drive és aquest codi → CNN_Espectogramas (1).ipynb
+• Arxius .parquet.
+	○ Fases inicials → df1.xlsx
+	○ Fases inicials → df_delta.parquet
+	○ Fases inicials → df_mfcc.parquet
+	○ Per RF model 1 i KNN → df_ml.parquet
+	○ Per RF model 2 (pas intermig) → df_repetir.parquet
+	○ Per RF model 2 → df_repetir_ml.parquet
+	○ Per CNN espectogrames. Arxiu de 4,8 GB no adjunt. Descarregat al local o al drive a: https://drive.google.com/file/d/136LuCR7Zzz2si2IL6_6oHEh2Zfzz3nrt/view?usp=drive_link → df_espectrogramas_final.parquet
